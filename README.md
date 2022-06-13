@@ -1,4 +1,4 @@
-Passionné par la sécurité des infrastructures réseaux
+Technicien informatique passionné par la sécurité des infrastructures réseaux
 
 Stockage des scripts powershell utilisés pour les infrastructures ou j'ai travaillé
 
