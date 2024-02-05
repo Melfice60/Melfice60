@@ -1,5 +1,5 @@
-Technicien informatique passionné par la sécurité des infrastructures réseaux
+Analyste SOC
 
-Stockage des scripts Powershell utilisés pour les infrastructures ou j'ai travaillé
+Stockage des scripts utilisés pour les infrastructures ou j'ai travaillé
 
 Writes-Ups des CTF auxquels j'ai participé
